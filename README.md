@@ -35,19 +35,23 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/machinelearning/machinelearning-original.svg" height="30" alt="machine learning logo"  />
+  <img width="12" />
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" height="30" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="30" alt="seaborn logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1200px-NumPy_logo.svg.png" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://powerbi.microsoft.com/pictures/App-Power-BI.svg" height="30" alt="power bi logo"  />
+  <img width="12" />
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Data_Science.png" height="30" alt="data science logo"  />
 </div>
 
 ###
@@ -68,4 +72,3 @@
 <img src="https://raw.githubusercontent.com/I-AM-PRASHANT-VERMA/I-AM-PRASHANT-VERMA/output/snake.svg" alt="Snake animation" />
 
 ###
-
