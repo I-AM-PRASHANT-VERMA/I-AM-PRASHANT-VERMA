@@ -26,3 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&" alt="i-am-prashant-verma" /></p>
 
+---------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=I-AM-PRASHANT-VERMA&layout=compact)](https://github.com/I-AM-PRASHANT-VERMA/github-readme-stats)
