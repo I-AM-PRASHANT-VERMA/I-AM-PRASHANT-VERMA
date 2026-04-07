@@ -1,16 +1,16 @@
 <h1 align="center">Prashant Verma</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer | MLOps Practitioner</h3>
+<h3 align="center">Machine Learning Engineer | MLOps Engineer | Data Scientist</h3>
 
 <p align="center">
-Building scalable data-driven systems and production-ready ML pipelines
+Building production-ready ML systems with Kubernetes, Airflow, MLflow, and CI/CD pipelines
 </p>
 
 ---
 
 ## About
-- Data Science and AI practitioner focused on real-world problem solving  
-- Strong interest in end-to-end machine learning systems and deployment  
-- Experience with data analysis, modeling, and MLOps workflows  
+- Machine Learning Engineer focused on real-world deployment and scalability  
+- Experience in building end-to-end ML pipelines and automation workflows  
+- Strong foundation in data analysis, modeling, and system design  
 
 ---
 
@@ -29,46 +29,54 @@ Building scalable data-driven systems and production-ready ML pipelines
 ### Programming & Data
 <p>
 <img src="https://skillicons.dev/icons?i=python,postgresql" />
-<img src="https://cdn.simpleicons.org/pandas" width="40"/>
-<img src="https://cdn.simpleicons.org/numpy" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
 </p>
 
 ### Machine Learning
 <p>
-<img src="https://cdn.simpleicons.org/scikitlearn" width="40"/>
-<img src="https://cdn.simpleicons.org/seaborn" width="40"/>
-<img src="https://cdn.simpleicons.org/tensorflow" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
 </p>
 
 ### MLOps & DevOps
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
-<img src="https://cdn.simpleicons.org/apacheairflow" width="40"/>
-<img src="https://cdn.simpleicons.org/mlflow" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mlflow/mlflow-original.svg" width="40"/>
 </p>
+
+---
+
+## Experience Highlights
+- Built and deployed end-to-end ML pipelines using Kubernetes and Docker  
+- Automated workflows using Apache Airflow DAGs  
+- Implemented CI/CD pipelines for ML using Jenkins  
+- Managed experiment tracking and model versioning with MLflow  
+- Deployed scalable ML models as APIs for real-world applications  
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=i-am-prashant-verma&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=i-am-prashant-verma&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&theme=github_dark" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-prashant-verma&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-prashant-verma&layout=compact&theme=github_dark" />
 </p>
 
 ---
 
 ## Core Strengths
 - End-to-end ML pipeline development  
-- Data analysis and feature engineering  
 - Model deployment and monitoring  
+- CI/CD for machine learning systems  
 - Workflow orchestration (Airflow)  
 - Experiment tracking (MLflow)  
-- Containerization and scalability (Docker, Kubernetes)  
+- Containerization and scaling (Docker, Kubernetes)  
 
 ---
 
