@@ -1,30 +1,70 @@
 <h1 align="center">Hi 👋, I'm Prashant Verma</h1>
-<h3 align="center">A passionate Data scientist</h3>
+<h3 align="center">Data Scientist | ML Engineer | Building Real-world Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=i-am-prashant-verma&label=Profile%20views&color=0e75b6&style=flat" alt="i-am-prashant-verma" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-am-prashant-verma" alt="i-am-prashant-verma" /></a> </p>
+## 🚀 About Me
+- 🎓 MSc in CS (Data Science & AI)
+- 🔍 Focus: Machine Learning, Data Analysis, MLOps
+- ⚡ Goal: Real-world impactful AI systems
 
-- 🌱 I’m currently learning **Masters in CS : Data Science and Artificial Intelligence**
+---
 
-- 📫 How to reach me **Prashantverma813@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prashant-verma-16905b23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prashant-verma-16905b23a/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/prashantvermadatasci" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/prashantvermadatasci" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/prashantverma813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/prashantverma813" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/prashantverma813/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prashantverma813/" height="30" width="40" /></a>
+## 🌐 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/prashant-verma-16905b23a/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.kaggle.com/prashantvermadatasci"><img src="https://skillicons.dev/icons?i=kaggle" /></a>
+<a href="https://www.hackerrank.com/profile/prashantverma813"><img src="https://skillicons.dev/icons?i=hackerrank" /></a>
+<a href="https://leetcode.com/u/prashantverma813/"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-prashant-verma&show_icons=true&locale=en&layout=compact" alt="i-am-prashant-verma" /></p>
+## 🧠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-prashant-verma&show_icons=true&locale=en" alt="i-am-prashant-verma" /></p>
+### 👨‍💻 Programming & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgresql" />
+<img src="https://cdn.simpleicons.org/pandas" width="40"/>
+<img src="https://cdn.simpleicons.org/numpy" width="40"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&" alt="i-am-prashant-verma" /></p>
+### 🤖 Machine Learning
+<p>
+<img src="https://cdn.simpleicons.org/scikitlearn" width="40"/>
+<img src="https://cdn.simpleicons.org/seaborn" width="40"/>
+<img src="https://cdn.simpleicons.org/tensorflow" width="40"/>
+</p>
 
----------------------------
+### ⚙️ DevOps & MLOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
+<img src="https://cdn.simpleicons.org/apacheairflow" width="40"/>
+<img src="https://cdn.simpleicons.org/mlflow" width="40"/>
+</p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=i-am-prashant-verma&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-prashant-verma&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 What Makes Me Different
+- Real-world mindset (sirf theory nahi)
+- End-to-end ML pipeline samajhta hoon
+- MLOps tools use karta hoon (Docker, Airflow, MLflow)
+- Problem-solving focus, not just coding
+
+---
+
+## 📫 Contact
+📧 prashantverma813@gmail.com
