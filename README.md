@@ -1,84 +1,89 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prashant+Verma;Data+Scientist+%7C+AI+Enthusiast;MLOps+%7C+LLMs+%7C+Cloud+Native" alt="Typing SVG" />
-</h1>
-
-<h3 align="center" style="color: #00b4d8;">🚀 Turning Data into Impactful Stories & Scalable AI Solutions</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=i-am-prashant-verma&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/i-am-prashant-verma?label=Follow&style=social" alt="followers" />
-</p>
-
----
-
-### 🌟 About Me
-
-- 🔭 Currently leveling up with **Masters in CS: Data Science & AI**
-- 🧠 Building end-to-end ML systems — from **Jupyter notebooks** to **Kubernetes deployments**
-- ⚡ Fun fact: I speak **Python**, **SQL**, and **coffee** ☕
-- 📫 Reach me: **Prashantverma813@gmail.com**
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/prashant-verma-16905b23a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  <a href="https://kaggle.com/prashantvermadatasci" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/prashantverma813" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/>
-  </a>
-  <a href="https://leetcode.com/u/prashantverma813" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode"/>
-  </a>
-</p>
-
----
-
-### ⚙️ My Tech Arsenal
-
-| **Data Science & Analytics** | **MLOps & Orchestration** | **Cloud & Containers** |
-|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> <br/> Python | <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" width="45" height="45"/> <br/> Apache Airflow | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/> <br/> Docker |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50"/> <br/> Pandas | <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="45" height="45"/> <br/> MLflow | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/> <br/> Kubernetes |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/> <br/> Scikit-learn | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45"/> <br/> Jenkins | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/> <br/> PostgreSQL |
-| <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/> <br/> Seaborn | | |
-
----
-
-### 📈 GitHub Analytics
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=i-am-prashant-verma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-prashant-verma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prashant%20Verma&fontSize=60&fontColor=00d4ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20AI%20%26%20ML%20Engineer&descSize=20&descAlignY=58&descColor=a0c4ff&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Masters+in+CS+%7C+Data+Science+%26+AI;Building+ML+Pipelines+%26+Data+Products;LeetCode+Grinder+%7C+Open+Source+Learner;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=i-am-prashant-verma&label=Profile+Views&color=00d4ff&style=for-the-badge)](https://github.com/i-am-prashant-verma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-verma-16905b23a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/prashantverma813/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Compete-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/prashantverma813)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Explore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/prashantvermadatasci)
+
 </div>
 
 ---
 
-### 🏆 Achievements
+## 🧠 About Me
+```python
+prashant = {
+    "degree"    : "Masters in CS — Data Science & Artificial Intelligence",
+    "focus"     : ["ML Engineering", "Data Pipelines", "Statistical Modeling"],
+    "currently" : "Building real-world DS projects & sharpening DSA",
+    "reach_me"  : "Prashantverma813@gmail.com",
+    "motto"     : "Turn raw data into real decisions 📊"
+}
+```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i-am-prashant-verma&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Languages & Data
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 📊 Data Science & ML
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### 📈 BI & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### ⚙️ MLOps & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
 ---
 
-### 💡 “Data is the new oil, but unrefined data is just sludge. I'm in the refinery business.”
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=i-am-prashant-verma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0c4ff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=i-am-prashant-verma&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-prashant-verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c4ff" width="40%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=i-am-prashant-verma&theme=tokyonight&no-frame=true&margin-w=10&column=6" width="90%"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's build something amazing together — one model, one pipeline, one insight at a time.</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
